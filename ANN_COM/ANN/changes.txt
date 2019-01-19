@@ -1,0 +1,6 @@
+
+added * L2_reg in:
+
+Network.BackProp()
+
+return (error + L2_reg_Temp * L2_reg * SumWeights_Squared/2)/MiniBatchSize;//average the error over the minibatches

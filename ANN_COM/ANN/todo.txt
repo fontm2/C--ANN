@@ -1,0 +1,5 @@
+dF zu [höhe*weite,tiefe] umformatieren in Foreward und bei Backprop auch anpassen
+
+Height und Width für alles Strides und InputeHeight/InputWidth überprüfen------------------------------------------------------>done
+
+Forwewardpropagate aufräumen(switch(ActivationFunctung) kann ev. nur einmal vorkommen)-->Codezeilen sparen

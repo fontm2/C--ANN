@@ -1,0 +1,50 @@
+F:\NewRobot\ANN\ANNMath\bin\Debug\ANNMath.dll
+F:\NewRobot\ANN\ANNMath\bin\Debug\ANNMath.pdb
+F:\NewRobot\ANN\ANNMath\obj\Debug\ANNMath.csprojResolveAssemblyReference.cache
+F:\NewRobot\ANN\ANNMath\obj\Debug\ANNMath.dll
+F:\NewRobot\ANN\ANNMath\obj\Debug\ANNMath.pdb
+E:\NewRobot\ANN\ANNMath\bin\Debug\ANNMath.dll
+E:\NewRobot\ANN\ANNMath\bin\Debug\ANNMath.pdb
+E:\NewRobot\ANN\ANNMath\obj\Debug\ANNMath.csprojResolveAssemblyReference.cache
+E:\NewRobot\ANN\ANNMath\obj\Debug\ANNMath.dll
+E:\NewRobot\ANN\ANNMath\obj\Debug\ANNMath.pdb
+F:\NewRobot\ANN _MiniBatchAtConv\ANNMath\bin\Debug\ANNMath.dll
+F:\NewRobot\ANN _MiniBatchAtConv\ANNMath\bin\Debug\ANNMath.pdb
+F:\NewRobot\ANN _MiniBatchAtConv\ANNMath\obj\Debug\ANNMath.csprojResolveAssemblyReference.cache
+F:\NewRobot\ANN _MiniBatchAtConv\ANNMath\obj\Debug\ANNMath.dll
+F:\NewRobot\ANN _MiniBatchAtConv\ANNMath\obj\Debug\ANNMath.pdb
+F:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_9\ANNMath\bin\Debug\ANNMath.dll
+F:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_9\ANNMath\bin\Debug\ANNMath.pdb
+F:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_9\ANNMath\obj\Debug\ANNMath.csprojResolveAssemblyReference.cache
+F:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_9\ANNMath\obj\Debug\ANNMath.dll
+F:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_9\ANNMath\obj\Debug\ANNMath.pdb
+F:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_10\ANNMath\bin\Debug\ANNMath.dll
+F:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_10\ANNMath\bin\Debug\ANNMath.pdb
+F:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_10\ANNMath\obj\Debug\ANNMath.csprojResolveAssemblyReference.cache
+F:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_10\ANNMath\obj\Debug\ANNMath.dll
+F:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_10\ANNMath\obj\Debug\ANNMath.pdb
+E:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_11\ANNMath\bin\Debug\ANNMath.dll
+E:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_11\ANNMath\bin\Debug\ANNMath.pdb
+E:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_11\ANNMath\obj\Debug\ANNMath.csprojResolveAssemblyReference.cache
+E:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_11\ANNMath\obj\Debug\ANNMath.dll
+E:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_11\ANNMath\obj\Debug\ANNMath.pdb
+F:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_12\ANNMath\bin\Debug\ANNMath.dll
+F:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_12\ANNMath\bin\Debug\ANNMath.pdb
+F:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_12\ANNMath\obj\Debug\ANNMath.csprojResolveAssemblyReference.cache
+F:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_12\ANNMath\obj\Debug\ANNMath.dll
+F:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_12\ANNMath\obj\Debug\ANNMath.pdb
+G:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_12\ANNMath\bin\Debug\ANNMath.dll
+G:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_12\ANNMath\bin\Debug\ANNMath.pdb
+G:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_12\ANNMath\obj\Debug\ANNMath.csprojResolveAssemblyReference.cache
+G:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_12\ANNMath\obj\Debug\ANNMath.dll
+G:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_12\ANNMath\obj\Debug\ANNMath.pdb
+G:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_13\ANNMath\bin\Debug\ANNMath.dll
+G:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_13\ANNMath\bin\Debug\ANNMath.pdb
+G:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_13\ANNMath\obj\Debug\ANNMath.csprojResolveAssemblyReference.cache
+G:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_13\ANNMath\obj\Debug\ANNMath.dll
+G:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_13\ANNMath\obj\Debug\ANNMath.pdb
+H:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_13\ANNMath\bin\Debug\ANNMath.dll
+H:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_13\ANNMath\bin\Debug\ANNMath.pdb
+H:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_13\ANNMath\obj\Debug\ANNMath.csprojResolveAssemblyReference.cache
+H:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_13\ANNMath\obj\Debug\ANNMath.dll
+H:\NewRobot\ANN_COM\ANN _MiniBatchAtConv_CultComa_13\ANNMath\obj\Debug\ANNMath.pdb
